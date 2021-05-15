@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3pp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sonoff_Devices_DIY_Tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bills" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/brewer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/brewer_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dummy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ledcontrol_gui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/producer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stuff" vcs="Git" />
+  </component>
+</project>
